@@ -1,0 +1,174 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.1.1">
+  <diagram name="Страница-1" id="KmqzD_SuEiXkns01YHKx">
+    <mxGraphModel dx="2655" dy="1482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=none;strokeColor=none;" value="Key Components" vertex="1">
+          <mxGeometry height="1100" width="1620" x="30" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-2" parent="m31CX6nqUQyzYUeTEIgR-1" style="whiteSpace=wrap;strokeWidth=2;" value="Frontend" vertex="1">
+          <mxGeometry height="64.14686825053995" width="138.60369609856264" x="51.00616016427105" y="668.7904967602592" as="geometry" />
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-3" parent="m31CX6nqUQyzYUeTEIgR-1" style="whiteSpace=wrap;strokeWidth=2;" value="Backend" vertex="1">
+          <mxGeometry height="64.14686825053995" width="133.05954825462013" x="401.3963039014374" y="668.7904967602592" as="geometry" />
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-4" parent="m31CX6nqUQyzYUeTEIgR-1" style="whiteSpace=wrap;strokeWidth=2;" value="Database" vertex="1">
+          <mxGeometry height="64.14686825053995" width="139.71252566735114" x="897.0431211498974" y="298.1641468682505" as="geometry" />
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-5" parent="m31CX6nqUQyzYUeTEIgR-1" style="whiteSpace=wrap;strokeWidth=2;" value="Route Optimization Module" vertex="1">
+          <mxGeometry height="64.14686825053995" width="281.6427104722793" x="824.9691991786449" y="509.61123110151186" as="geometry" />
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-6" parent="m31CX6nqUQyzYUeTEIgR-1" style="whiteSpace=wrap;strokeWidth=2;" value="Courier Integration Module" vertex="1">
+          <mxGeometry height="64.14686825053995" width="280.5338809034908" x="826.0780287474333" y="668.7904967602592" as="geometry" />
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-7" parent="m31CX6nqUQyzYUeTEIgR-1" style="whiteSpace=wrap;strokeWidth=2;" value="Notification System" vertex="1">
+          <mxGeometry height="64.14686825053995" width="221.76591375770025" x="854.9075975359344" y="915.8747300215982" as="geometry" />
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-8" parent="m31CX6nqUQyzYUeTEIgR-1" style="whiteSpace=wrap;strokeWidth=2;" value="Analytics System" vertex="1">
+          <mxGeometry height="64.14686825053995" width="199.5893223819302" x="867.1047227926078" y="792.3326133909287" as="geometry" />
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-9" parent="m31CX6nqUQyzYUeTEIgR-1" style="whiteSpace=wrap;strokeWidth=2;" value="Orders" vertex="1">
+          <mxGeometry height="64.14686825053995" width="118.64476386036962" x="1414.8665297741275" y="51.07991360691145" as="geometry" />
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-10" parent="m31CX6nqUQyzYUeTEIgR-1" style="whiteSpace=wrap;strokeWidth=2;" value="Products" vertex="1">
+          <mxGeometry height="64.14686825053995" width="134.16837782340863" x="1407.1047227926078" y="174.622030237581" as="geometry" />
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-11" parent="m31CX6nqUQyzYUeTEIgR-1" style="whiteSpace=wrap;strokeWidth=2;" value="Customers" vertex="1">
+          <mxGeometry height="64.14686825053995" width="148.58316221765915" x="1400.451745379877" y="298.1641468682505" as="geometry" />
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-12" parent="m31CX6nqUQyzYUeTEIgR-1" style="whiteSpace=wrap;strokeWidth=2;" value="Routes" vertex="1">
+          <mxGeometry height="64.14686825053995" width="119.75359342915812" x="1414.8665297741275" y="421.70626349892007" as="geometry" />
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-13" parent="m31CX6nqUQyzYUeTEIgR-1" style="whiteSpace=wrap;strokeWidth=2;" value="Couriers" vertex="1">
+          <mxGeometry height="64.14686825053995" width="131.95071868583165" x="1408.2135523613963" y="545.2483801295896" as="geometry" />
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-14" parent="m31CX6nqUQyzYUeTEIgR-1" style="whiteSpace=wrap;strokeWidth=2;" value="Courier Services API" vertex="1">
+          <mxGeometry height="64.14686825053995" width="225.0924024640657" x="1361.6427104722793" y="668.7904967602592" as="geometry" />
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-15" parent="m31CX6nqUQyzYUeTEIgR-1" style="whiteSpace=wrap;strokeWidth=2;" value="Mobile App for Couriers" vertex="1">
+          <mxGeometry height="64.14686825053995" width="252.81314168377827" x="341.5195071868584" y="880.2375809935205" as="geometry" />
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-16" parent="m31CX6nqUQyzYUeTEIgR-1" style="whiteSpace=wrap;strokeWidth=2;" value="Customer App" vertex="1">
+          <mxGeometry height="64.14686825053995" width="177.4127310061602" x="379.2197125256674" y="1003.7796976241901" as="geometry" />
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-17" edge="1" parent="m31CX6nqUQyzYUeTEIgR-1" source="m31CX6nqUQyzYUeTEIgR-2" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="m31CX6nqUQyzYUeTEIgR-3" value="REST API">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-18" edge="1" parent="m31CX6nqUQyzYUeTEIgR-1" source="m31CX6nqUQyzYUeTEIgR-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=0;entryX=0;entryY=0.5;rounded=0;" target="m31CX6nqUQyzYUeTEIgR-4" value="Database Queries">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="709.6509240246407" y="330.2375809935205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-33" connectable="0" parent="m31CX6nqUQyzYUeTEIgR-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Text" vertex="1">
+          <mxGeometry relative="1" x="0.7924" y="-5" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-19" edge="1" parent="m31CX6nqUQyzYUeTEIgR-1" source="m31CX6nqUQyzYUeTEIgR-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=0;entryX=0;entryY=0.5;rounded=0;" target="m31CX6nqUQyzYUeTEIgR-5" value="Route Calculations">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="709.6509240246407" y="541.6846652267818" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-20" edge="1" parent="m31CX6nqUQyzYUeTEIgR-1" source="m31CX6nqUQyzYUeTEIgR-3" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="m31CX6nqUQyzYUeTEIgR-6" value="External API Calls">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-21" edge="1" parent="m31CX6nqUQyzYUeTEIgR-1" source="m31CX6nqUQyzYUeTEIgR-3" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.76;entryX=0.3;entryY=0;rounded=0;" target="m31CX6nqUQyzYUeTEIgR-7" value="Triggers">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="709.6509240246407" y="762.634989200864" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-22" edge="1" parent="m31CX6nqUQyzYUeTEIgR-1" source="m31CX6nqUQyzYUeTEIgR-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.97;exitY=1;entryX=0;entryY=0.5;rounded=0;" target="m31CX6nqUQyzYUeTEIgR-8" value="Data Analytics">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="709.6509240246407" y="824.4060475161987" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-23" edge="1" parent="m31CX6nqUQyzYUeTEIgR-1" source="m31CX6nqUQyzYUeTEIgR-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=0;entryX=0;entryY=0.5;rounded=0;" target="m31CX6nqUQyzYUeTEIgR-9" value="Stores Order Data">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1235.2361396303904" y="83.15334773218143" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-24" edge="1" parent="m31CX6nqUQyzYUeTEIgR-1" source="m31CX6nqUQyzYUeTEIgR-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0;entryX=0;entryY=0.5;rounded=0;" target="m31CX6nqUQyzYUeTEIgR-10" value="Stores Product Data">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1235.2361396303904" y="206.69546436285097" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-25" edge="1" parent="m31CX6nqUQyzYUeTEIgR-1" source="m31CX6nqUQyzYUeTEIgR-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="m31CX6nqUQyzYUeTEIgR-11" value="Stores Customer Data">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-26" edge="1" parent="m31CX6nqUQyzYUeTEIgR-1" source="m31CX6nqUQyzYUeTEIgR-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=1;entryX=0;entryY=0.5;rounded=0;" target="m31CX6nqUQyzYUeTEIgR-12" value="Stores Route Data">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1235.2361396303904" y="453.77969762419" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-27" edge="1" parent="m31CX6nqUQyzYUeTEIgR-1" source="m31CX6nqUQyzYUeTEIgR-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=1;entryX=0;entryY=0.5;rounded=0;" target="m31CX6nqUQyzYUeTEIgR-13" value="Stores Courier Data">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1235.2361396303904" y="577.3218142548595" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-28" edge="1" parent="m31CX6nqUQyzYUeTEIgR-1" source="m31CX6nqUQyzYUeTEIgR-6" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="m31CX6nqUQyzYUeTEIgR-14" value="External API">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-29" edge="1" parent="m31CX6nqUQyzYUeTEIgR-1" source="m31CX6nqUQyzYUeTEIgR-15" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.26;rounded=0;" target="m31CX6nqUQyzYUeTEIgR-7" value="Push Notifications">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="709.6509240246407" y="912.3110151187906" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-30" edge="1" parent="m31CX6nqUQyzYUeTEIgR-1" source="m31CX6nqUQyzYUeTEIgR-16" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.08;entryY=1;rounded=0;" target="m31CX6nqUQyzYUeTEIgR-7" value="Push Notifications">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="709.6509240246407" y="1035.85313174946" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-31" parent="m31CX6nqUQyzYUeTEIgR-1" style="whiteSpace=wrap;strokeWidth=2;" value="Warehouse Management Module" vertex="1">
+          <mxGeometry height="64.152" width="263.6470588235294" x="509.29411764705884" y="234.01400000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-32" edge="1" parent="m31CX6nqUQyzYUeTEIgR-1" source="m31CX6nqUQyzYUeTEIgR-3" style="curved=1;startArrow=none;endArrow=block;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="m31CX6nqUQyzYUeTEIgR-31" value="Internal API Call ">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="336.9450416716995" y="270.83758099352053" />
+            </Array>
+            <mxPoint x="116.47058823529412" y="609.4000000000001" as="sourcePoint" />
+            <mxPoint x="524.1176470588235" y="270.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m31CX6nqUQyzYUeTEIgR-35" edge="1" parent="m31CX6nqUQyzYUeTEIgR-1" source="m31CX6nqUQyzYUeTEIgR-31" style="curved=1;startArrow=none;endArrow=block;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" target="m31CX6nqUQyzYUeTEIgR-4" value="Database Query">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="931.7647058823529" y="286" />
+            </Array>
+            <mxPoint x="1053.2902524459473" y="683.9624190064795" as="sourcePoint" />
+            <mxPoint x="1104.1137818577122" y="296.76241900647955" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
