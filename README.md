@@ -4,7 +4,7 @@
 
 ## Диаграмма архитектуры
 Файлы:
-- Electronicstore.webp
+- [Electronicstore.webp](https://app.diagrams.net/?mode=github#https://raw.githubusercontent.com/nhslo/-CSE5072--home11/main/Electronicstore.drawio)
 - Electronicstore.drawio
 
 ![Диаграмма архитектуры](Electronicstore.webp)
