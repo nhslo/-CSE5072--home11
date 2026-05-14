@@ -5,15 +5,15 @@
       "id": "fall-2026-registration",
       "title": "Регистрация на осенний семестр",
       "description": "Открылась регистрация. Сроки и важные даты внутри.",
-      "githubUrl": "https://github.com/user/repo/blob/main/news/fall-2026.md",
+      "githubUrl": "https://github.com/Osasuwu/jarvis/blob/main/README.md",
       "category": "news",
       "publishedAt": "2026-08-15"
     },
     {
       "id": "how-to-iup",
       "title": "Как заполнить ИУП",
-      "description": "Пошаговая инструкция с примерами и скриншотами.",
-      "githubUrl": "https://github.com/user/repo/blob/main/guides/iup.md",
+      "description": "Пошаговая инструкция с примерами и скриншотами. Пошаговая инструкция с примерами и скриншотами. Пошаговая инструкция с примерами и скриншотами. Пошаговая инструкция с примерами и скриншотами. Пошаговая инструкция с примерами и скриншотами. Пошаговая инструкция с примерами и скриншотами. Пошаговая инструкция с примерами и скриншотами. Пошаговая инструкция с примерами и скриншотами.Пошаговая инструкция с примерами и скриншотами.",
+      "githubUrl": "https://github.com/Osasuwu/jarvis/blob/main/SETUP.md",
       "category": "instruction",
       "publishedAt": "2026-08-10"
     },
@@ -21,7 +21,7 @@
       "id": "winter-update",
       "title": "Обновление 2.1",
       "description": "Что нового в приложении: календарь, контент-центр, темы.",
-      "githubUrl": "https://github.com/user/repo/blob/main/changelog/2.1.md",
+      "githubUrl": "https://github.com/Osasuwu/jarvis/blob/main/CONTEXT.md",
       "category": "update",
       "publishedAt": "2026-08-01"
     }
